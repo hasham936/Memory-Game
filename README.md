@@ -59,6 +59,12 @@ L’application doit obligatoirement :
 
 ##  Installation & lancement
 
+### Accéder au répertoire du projet
+
+```bash
+cd "C:\Users\Utilisateur\Downloads\Projet-Vue\memory-game"
+```
+
 ### Installer les dépendances
 
 ```bash
@@ -77,11 +83,3 @@ npm run dev
 
 * Travail à faire **en groupe de 2 ou 3**
 * Soutenance de **15 à 20 minutes**
-
----
-
-Si tu veux, je peux aussi te faire :
-✅ un logo simple pour le projet
-✅ une version en anglais
-✅ un README avec images/screenshots
-Dis-moi !
