@@ -77,6 +77,7 @@ const handleFlip = (cardId) => {
 </template>
 
 <style scoped>
+
 .game-container {
   min-height: 100vh;
   padding: 24px;
@@ -178,4 +179,5 @@ const handleFlip = (cardId) => {
 
 .fade-enter-active, .fade-leave-active { transition: opacity 0.3s; }
 .fade-enter-from, .fade-leave-to { opacity: 0; }
+
 </style>
